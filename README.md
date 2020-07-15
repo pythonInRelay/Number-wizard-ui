@@ -4,7 +4,7 @@ A UI created for my simple guessing game made in C# and Unity
 
 ## Methods used
 
-* Serialized Fields
+* [SerializeField]
 * toString
 * Random.Range
 * TextMeshPro
