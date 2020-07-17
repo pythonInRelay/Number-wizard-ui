@@ -6,7 +6,7 @@ _________________________
 
 _________________________
 
-A UI created for my simple guessing game made in C# and Unity
+A UI created for my simple guessing game using Unity and written in C#.
 
 **Time taken to completion: <2 hours**
 
