@@ -9,6 +9,8 @@ A UI created for my simple guessing game using Unity and written in C#.
 
 **Time taken to completion: <2 hours**
 
+_________________________
+
 ## Unity features used:
 
 * [SerializeField]
