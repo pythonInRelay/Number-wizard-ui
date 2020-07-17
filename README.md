@@ -8,7 +8,7 @@ _________________________
 
 A UI created for my simple guessing game made in C# and Unity
 
-## Methods used
+## Unity features used:
 
 * [SerializeField]
 * toString
