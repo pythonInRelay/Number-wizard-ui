@@ -2,7 +2,7 @@
 
 _________________________
 
-*NB! If you are viewing these respositories as a means to assess my skills, please also see my latest projects.*
+*NB! If you are viewing these repositories as a means to assess my skills, please also see my latest projects.*
 _________________________
 
 A UI created for my simple guessing game using Unity and written in C#.
